@@ -7,5 +7,5 @@ and use r as radius and r as rectangle .
 just for learning.
 
  
-* [Demo](https://jafarib.github.io/javascript-make-move-objects/) -  for see how ist works.
+* [ThisRepoDemo](https://jafarib.github.io/javascript-make-move-objects/) -  for see how ist works.
  
